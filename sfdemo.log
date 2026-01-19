@@ -42,7 +42,7 @@ Valve Software - vbsp.exe (Nov 25 2024)
 8 threads
 Using shader api: shaderapiempty.dll
 materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
-Loading C:\Users\kathe\Documents\hl2\sfdemo.vmf
+Loading C:\Users\sam\Documents\hl2\sfdemo.vmf
 ConVarRef mat_specular_scalar doesn't point to an existing ConVar
 Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
 fixing up env_cubemap materials on brush sides...
@@ -57,7 +57,7 @@ FixTjuncs...
 PruneNodes...
 WriteBSP...
 done (0)
-writing C:\Users\kathe\Documents\hl2\sfdemo.prt...Building visibility clusters...
+writing C:\Users\sam\Documents\hl2\sfdemo.prt...Building visibility clusters...
 done (0)
 Creating default LDR cubemaps for env_cubemap using skybox materials:
    skybox/sky_day01_06*.vmt
@@ -74,7 +74,7 @@ Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
 Compacting texture/material tables...
 Reduced 103 texinfos to 33
 Reduced 20 texdatas to 16 (524 bytes to 396)
-Writing C:\Users\kathe\Documents\hl2\sfdemo.bsp
+Writing C:\Users\sam\Documents\hl2\sfdemo.bsp
 0 seconds elapsed
 
 -------------------------------------------------------------------------------
@@ -118,8 +118,8 @@ All Search Paths:
 ----------------------------------------------
 UpdateSearchPathsForCurrentGameExpansion
 8 threads
-reading c:\users\kathe\documents\hl2\sfdemo.bsp
-reading c:\users\kathe\documents\hl2\sfdemo.prt
+reading c:\users\sam\documents\hl2\sfdemo.bsp
+reading c:\users\sam\documents\hl2\sfdemo.prt
   30 portalclusters
   55 numportals
 BasePortalVis:       0...1...2...3...4...5...6...7...8...9...10 (0)
@@ -130,7 +130,7 @@ Average clusters visible: 20
 Building PAS...
 Average clusters audible: 30
 visdatasize:501  compressed from 480
-writing c:\users\kathe\documents\hl2\sfdemo.bsp
+writing c:\users\sam\documents\hl2\sfdemo.bsp
 0 seconds elapsed
 
 -------------------------------------------------------------------------------
@@ -179,7 +179,7 @@ Valve Software - vrad.exe SSE (Nov 25 2024)
 [Reading texlights from 'lights.rad']
 [46 texlights parsed from 'lights.rad']
 
-Loading c:\users\kathe\documents\hl2\sfdemo.bsp
+Loading c:\users\sam\documents\hl2\sfdemo.bsp
 Setting up ray-trace acceleration structure... Done (0.01 seconds)
 194 faces
 42628 square feet [6138560.50 square inches]
@@ -267,7 +267,7 @@ physics terrain       [variable]         279/1048576  ( 0.0%)
 Level flags = 0
 
 Total triangle count: 532
-Writing c:\users\kathe\documents\hl2\sfdemo.bsp
+Writing c:\users\sam\documents\hl2\sfdemo.bsp
 1 second elapsed
 ConVarRef developer doesn't point to an existing ConVar
 ----------------------------------------------
@@ -302,7 +302,7 @@ Valve Software - vrad.exe SSE (Nov 25 2024)
 [Reading texlights from 'lights.rad']
 [46 texlights parsed from 'lights.rad']
 
-Loading c:\users\kathe\documents\hl2\sfdemo.bsp
+Loading c:\users\sam\documents\hl2\sfdemo.bsp
 Setting up ray-trace acceleration structure... Done (0.01 seconds)
 194 faces
 42628 square feet [6138560.50 square inches]
@@ -396,7 +396,7 @@ Writing c:\users\kathe\documents\hl2\sfdemo.bsp
 -------------------------------------------------------------------------------
 Running command:
 
-copy "C:\Users\kathe\Documents\hl2\sfdemo.bsp" "C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\maps\sfdemo.bsp"
+copy "C:\Users\sam\Documents\hl2\sfdemo.bsp" "C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\maps\sfdemo.bsp"
 -------------------------------------------------------------------------------
 
 
