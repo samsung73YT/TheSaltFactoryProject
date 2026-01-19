@@ -1,0 +1,427 @@
+
+-------------------------------------------------------------------------------
+Running command:
+
+cd "C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\bin"
+-------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------
+Running command:
+
+"C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\bin\vbsp.exe" -game "C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2" "C:\Users\kathe\Documents\hl2\sfdemo.vmf"
+-------------------------------------------------------------------------------
+
+ConVarRef developer doesn't point to an existing ConVar
+----------------------------------------------
+All Search Paths:
+"c:\program files (x86)\steam\steamapps\common\half-life 2\bin\" "EXECUTABLE_PATH"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\" "BASE_PATH"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\custom\thecomplex\" "GAME"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\custom\thecomplex\" "mod"
+"GAME" "GAME" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\hl2_sound_vo_english.vpk
+"mod" "mod" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\hl2_sound_vo_english.vpk
+"GAME" "GAME" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\hl2_pak.vpk
+"mod" "mod" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\hl2_pak.vpk
+"GAME" "GAME" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\hl2_textures.vpk
+"GAME" "GAME" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\hl2_sound_misc.vpk
+"GAME" "GAME" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\hl2_misc.vpk
+"platform" "platform" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\platform\platform_misc.vpk
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\" "mod"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\" "mod_write"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\" "default_write_path"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\" "GAME"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\" "game_write"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\bin\" "gamebin"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\platform\" "platform"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\" "exp"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\" "root_mod"
+----------------------------------------------
+UpdateSearchPathsForCurrentGameExpansion
+Valve Software - vbsp.exe (Nov 25 2024)
+8 threads
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\kathe\Documents\hl2\sfdemo.vmf
+ConVarRef mat_specular_scalar doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\kathe\Documents\hl2\sfdemo.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_06*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (11571 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 103 texinfos to 33
+Reduced 20 texdatas to 16 (524 bytes to 396)
+Writing C:\Users\kathe\Documents\hl2\sfdemo.bsp
+0 seconds elapsed
+
+-------------------------------------------------------------------------------
+Running command:
+
+cd "C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\bin"
+-------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------
+Running command:
+
+"C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\bin\vvis.exe" -game "C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2" "C:\Users\kathe\Documents\hl2\sfdemo"
+-------------------------------------------------------------------------------
+
+Valve Software - vvis.exe (Nov 25 2024)
+ConVarRef developer doesn't point to an existing ConVar
+----------------------------------------------
+All Search Paths:
+"c:\program files (x86)\steam\steamapps\common\half-life 2\bin\" "EXECUTABLE_PATH"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\" "BASE_PATH"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\custom\thecomplex\" "GAME"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\custom\thecomplex\" "mod"
+"GAME" "GAME" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\hl2_sound_vo_english.vpk
+"mod" "mod" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\hl2_sound_vo_english.vpk
+"GAME" "GAME" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\hl2_pak.vpk
+"mod" "mod" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\hl2_pak.vpk
+"GAME" "GAME" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\hl2_textures.vpk
+"GAME" "GAME" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\hl2_sound_misc.vpk
+"GAME" "GAME" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\hl2_misc.vpk
+"platform" "platform" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\platform\platform_misc.vpk
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\" "mod"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\" "mod_write"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\" "default_write_path"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\" "GAME"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\" "game_write"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\bin\" "gamebin"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\platform\" "platform"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\" "exp"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\" "root_mod"
+----------------------------------------------
+UpdateSearchPathsForCurrentGameExpansion
+8 threads
+reading c:\users\kathe\documents\hl2\sfdemo.bsp
+reading c:\users\kathe\documents\hl2\sfdemo.prt
+  30 portalclusters
+  55 numportals
+BasePortalVis:       0...1...2...3...4...5...6...7...8...9...10 (0)
+PortalFlow:          0...1...2...3...4...5...6...7...8...9...10 (0)
+Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 600
+Average clusters visible: 20
+Building PAS...
+Average clusters audible: 30
+visdatasize:501  compressed from 480
+writing c:\users\kathe\documents\hl2\sfdemo.bsp
+0 seconds elapsed
+
+-------------------------------------------------------------------------------
+Running command:
+
+cd "C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\bin"
+-------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------
+Running command:
+
+"C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\bin\vrad.exe" -both -game "C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2" "C:\Users\kathe\Documents\hl2\sfdemo"
+-------------------------------------------------------------------------------
+
+ConVarRef developer doesn't point to an existing ConVar
+----------------------------------------------
+All Search Paths:
+"c:\program files (x86)\steam\steamapps\common\half-life 2\bin\" "EXECUTABLE_PATH"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\" "BASE_PATH"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\custom\thecomplex\" "GAME"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\custom\thecomplex\" "mod"
+"GAME" "GAME" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\hl2_sound_vo_english.vpk
+"mod" "mod" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\hl2_sound_vo_english.vpk
+"GAME" "GAME" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\hl2_pak.vpk
+"mod" "mod" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\hl2_pak.vpk
+"GAME" "GAME" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\hl2_textures.vpk
+"GAME" "GAME" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\hl2_sound_misc.vpk
+"GAME" "GAME" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\hl2_misc.vpk
+"platform" "platform" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\platform\platform_misc.vpk
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\" "mod"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\" "mod_write"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\" "default_write_path"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\" "GAME"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\" "game_write"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\bin\" "gamebin"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\platform\" "platform"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\" "exp"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\" "root_mod"
+----------------------------------------------
+UpdateSearchPathsForCurrentGameExpansion
+Valve Software - vrad.exe SSE (Nov 25 2024)
+
+      Valve Radiosity Simulator
+8 threads
+[Reading texlights from 'lights.rad']
+[46 texlights parsed from 'lights.rad']
+
+Loading c:\users\kathe\documents\hl2\sfdemo.bsp
+Setting up ray-trace acceleration structure... Done (0.01 seconds)
+194 faces
+42628 square feet [6138560.50 square inches]
+1 Displacements
+256 Square Feet [36986.96 Square Inches]
+194 patches before subdivision
+4292 patches after subdivision
+3 direct lights
+BuildFacelights:     0...1...2...3...4...5...6...7...8...9...10 (0)
+BuildVisLeafs:       0...1...2...3...4...5...6...7...8...9...10 (0)
+transfers 277151, max 283
+transfer lists:   2.1 megs
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+        Bounce #1 added RGB(20410, 21305, 19896)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+        Bounce #2 added RGB(3912, 4166, 3546)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+        Bounce #3 added RGB(805, 883, 676)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+        Bounce #4 added RGB(172, 194, 134)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+        Bounce #5 added RGB(36, 43, 26)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+        Bounce #6 added RGB(8, 10, 5)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+        Bounce #7 added RGB(2, 2, 1)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+        Bounce #8 added RGB(0, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0011 sec>
+FinalLightFace:      0...1...2...3...4...5...6...7...8...9...10 (0)
+FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ThreadComputeLeafAmbient: 0...1...2...3...4...5...6...7...8...9...10 (0)
+Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness
+------------       ---------------  ---------------  --------
+models                   1/2048           48/98304    ( 0.0%)
+brushes                 29/16384         348/196608   ( 0.2%)
+brushsides             195/65536        1560/524288   ( 0.3%)
+planes                 134/65536        2680/1310720  ( 0.2%)
+vertexes               327/65536        3924/786432   ( 0.5%)
+nodes                  103/65536        3296/2097152  ( 0.2%)
+texinfos                33/16384        2376/1179648  ( 0.2%)
+texdata                 16/8096          512/259072   ( 0.2%)
+dispinfos                1/0             176/0        ( 0.0%)
+disp_verts              81/0            1620/0        ( 0.0%)
+disp_tris              128/0             256/0        ( 0.0%)
+disp_lmsamples         768/0             768/0        ( 0.0%)
+faces                  194/65536       10864/3670016  ( 0.3%)
+hdr faces                0/65536           0/3670016  ( 0.0%)
+origfaces               39/65536        2184/3670016  ( 0.1%)
+leaves                 105/65536        3360/2097152  ( 0.2%)
+leaffaces              214/65536         428/131072   ( 0.3%)
+leafbrushes             91/65536         182/131072   ( 0.1%)
+areas                    2/256            16/2048     ( 0.8%)
+surfedges             1077/512000       4308/2048000  ( 0.2%)
+edges                  633/256000       2532/1024000  ( 0.2%)
+LDR worldlights          3/8192          264/720896   ( 0.0%)
+HDR worldlights          0/8192            0/720896   ( 0.0%)
+leafwaterdata            0/32768           0/393216   ( 0.0%)
+waterstrips             38/32768         380/327680   ( 0.1%)
+waterverts               0/65536           0/786432   ( 0.0%)
+waterindices           528/65536        1056/131072   ( 0.8%)
+cubemapsamples           0/1024            0/16384    ( 0.0%)
+overlays                 0/512             0/180224   ( 0.0%)
+LDR lightdata         [variable]      267652/0        ( 0.0%)
+HDR lightdata         [variable]           0/0        ( 0.0%)
+visdata               [variable]         501/16777216 ( 0.0%)
+entdata               [variable]         860/393216   ( 0.2%)
+LDR ambient table      105/65536         420/262144   ( 0.2%)
+HDR ambient table      105/65536         420/262144   ( 0.2%)
+LDR leaf ambient       413/65536       11564/1835008  ( 0.6%)
+HDR leaf ambient       105/65536        2940/1835008  ( 0.2%)
+occluders                0/0               0/0        ( 0.0%)
+occluder polygons        0/0               0/0        ( 0.0%)
+occluder vert ind        0/0               0/0        ( 0.0%)
+detail props          [variable]           1/12       ( 8.3%)
+static props          [variable]           1/12       ( 8.3%)
+pakfile               [variable]      211860/0        ( 0.0%)
+physics               [variable]       11571/4194304  ( 0.3%)
+physics terrain       [variable]         279/1048576  ( 0.0%)
+
+Level flags = 0
+
+Total triangle count: 532
+Writing c:\users\kathe\documents\hl2\sfdemo.bsp
+1 second elapsed
+ConVarRef developer doesn't point to an existing ConVar
+----------------------------------------------
+All Search Paths:
+"c:\program files (x86)\steam\steamapps\common\half-life 2\bin\" "EXECUTABLE_PATH"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\" "BASE_PATH"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\custom\thecomplex\" "GAME"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\custom\thecomplex\" "mod"
+"GAME" "GAME" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\hl2_sound_vo_english.vpk
+"mod" "mod" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\hl2_sound_vo_english.vpk
+"GAME" "GAME" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\hl2_pak.vpk
+"mod" "mod" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\hl2_pak.vpk
+"GAME" "GAME" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\hl2_textures.vpk
+"GAME" "GAME" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\hl2_sound_misc.vpk
+"GAME" "GAME" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\hl2_misc.vpk
+"platform" "platform" (VPK)C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\platform\platform_misc.vpk
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\" "mod"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\" "mod_write"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\" "default_write_path"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\" "GAME"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\" "game_write"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\bin\" "gamebin"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\platform\" "platform"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\" "exp"
+"c:\program files (x86)\steam\steamapps\common\half-life 2\c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\" "root_mod"
+----------------------------------------------
+UpdateSearchPathsForCurrentGameExpansion
+Valve Software - vrad.exe SSE (Nov 25 2024)
+
+      Valve Radiosity Simulator
+8 threads
+[Reading texlights from 'lights.rad']
+[46 texlights parsed from 'lights.rad']
+
+Loading c:\users\kathe\documents\hl2\sfdemo.bsp
+Setting up ray-trace acceleration structure... Done (0.01 seconds)
+194 faces
+42628 square feet [6138560.50 square inches]
+1 Displacements
+256 Square Feet [36986.96 Square Inches]
+194 patches before subdivision
+4292 patches after subdivision
+3 direct lights
+BuildFacelights:     0...1...2...3...4...5...6...7...8...9...10 (0)
+BuildVisLeafs:       0...1...2...3...4...5...6...7...8...9...10 (0)
+transfers 277151, max 283
+transfer lists:   2.1 megs
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+        Bounce #1 added RGB(20410, 21305, 19896)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+        Bounce #2 added RGB(3912, 4166, 3546)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+        Bounce #3 added RGB(805, 883, 676)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+        Bounce #4 added RGB(172, 194, 134)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+        Bounce #5 added RGB(36, 43, 26)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+        Bounce #6 added RGB(8, 10, 5)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+        Bounce #7 added RGB(2, 2, 1)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+        Bounce #8 added RGB(0, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0010 sec>
+FinalLightFace:      0...1...2...3...4...5...6...7...8...9...10 (0)
+FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ThreadComputeLeafAmbient: 0...1...2...3...4...5...6...7...8...9...10 (1)
+Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness
+------------       ---------------  ---------------  --------
+models                   1/2048           48/98304    ( 0.0%)
+brushes                 29/16384         348/196608   ( 0.2%)
+brushsides             195/65536        1560/524288   ( 0.3%)
+planes                 134/65536        2680/1310720  ( 0.2%)
+vertexes               327/65536        3924/786432   ( 0.5%)
+nodes                  103/65536        3296/2097152  ( 0.2%)
+texinfos                33/16384        2376/1179648  ( 0.2%)
+texdata                 16/8096          512/259072   ( 0.2%)
+dispinfos                1/0             176/0        ( 0.0%)
+disp_verts              81/0            1620/0        ( 0.0%)
+disp_tris              128/0             256/0        ( 0.0%)
+disp_lmsamples         768/0             768/0        ( 0.0%)
+faces                  194/65536       10864/3670016  ( 0.3%)
+hdr faces              194/65536       10864/3670016  ( 0.3%)
+origfaces               39/65536        2184/3670016  ( 0.1%)
+leaves                 105/65536        3360/2097152  ( 0.2%)
+leaffaces              214/65536         428/131072   ( 0.3%)
+leafbrushes             91/65536         182/131072   ( 0.1%)
+areas                    2/256            16/2048     ( 0.8%)
+surfedges             1077/512000       4308/2048000  ( 0.2%)
+edges                  633/256000       2532/1024000  ( 0.2%)
+LDR worldlights          3/8192          264/720896   ( 0.0%)
+HDR worldlights          3/8192          264/720896   ( 0.0%)
+leafwaterdata            0/32768           0/393216   ( 0.0%)
+waterstrips             38/32768         380/327680   ( 0.1%)
+waterverts               0/65536           0/786432   ( 0.0%)
+waterindices           528/65536        1056/131072   ( 0.8%)
+cubemapsamples           0/1024            0/16384    ( 0.0%)
+overlays                 0/512             0/180224   ( 0.0%)
+LDR lightdata         [variable]      267652/0        ( 0.0%)
+HDR lightdata         [variable]      267652/0        ( 0.0%)
+visdata               [variable]         501/16777216 ( 0.0%)
+entdata               [variable]         860/393216   ( 0.2%)
+LDR ambient table      105/65536         420/262144   ( 0.2%)
+HDR ambient table      105/65536         420/262144   ( 0.2%)
+LDR leaf ambient       413/65536       11564/1835008  ( 0.6%)
+HDR leaf ambient       413/65536       11564/1835008  ( 0.6%)
+occluders                0/0               0/0        ( 0.0%)
+occluder polygons        0/0               0/0        ( 0.0%)
+occluder vert ind        0/0               0/0        ( 0.0%)
+detail props          [variable]           1/12       ( 8.3%)
+static props          [variable]           1/12       ( 8.3%)
+pakfile               [variable]      211860/0        ( 0.0%)
+physics               [variable]       11571/4194304  ( 0.3%)
+physics terrain       [variable]         279/1048576  ( 0.0%)
+
+Level flags = 0
+
+Total triangle count: 532
+Writing c:\users\kathe\documents\hl2\sfdemo.bsp
+1 second elapsed
+
+-------------------------------------------------------------------------------
+Running command:
+
+copy "C:\Users\kathe\Documents\hl2\sfdemo.bsp" "C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\maps\sfdemo.bsp"
+-------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------
+Running command:
+
+cd "C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2"
+-------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------
+Running command:
+
+"C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2.exe" -game "C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2" +map "sfdemo" -steam -insecure
+-------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------
+Command failed with return code 0x1!
+
+** Screenshot the WHOLE window when showing this compile log
+** Or upload the .log file generated beside your VMF
+-------------------------------------------------------------------------------
+
+
+9 command(s) finished in 17 seconds
+
+Press a key to close.
